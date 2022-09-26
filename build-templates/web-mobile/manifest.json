@@ -1,0 +1,7 @@
+{
+    "game": [
+		"src/settings.js",
+		"vconsole.min.js",
+        "main.js"
+	]
+}
